@@ -6,6 +6,7 @@ dist
 
 # environment variabl
 .env
+.env*.local
 
 # coverage
 coverage
