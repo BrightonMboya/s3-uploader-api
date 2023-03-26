@@ -4,8 +4,8 @@
 # compiled directory
 dist
 
-# environment variables
-#.env
+# environment variabl
+.env
 
 # coverage
 coverage
