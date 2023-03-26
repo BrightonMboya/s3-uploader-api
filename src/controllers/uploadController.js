@@ -16,7 +16,7 @@ const s3 = new aws.S3({
 class uploadController {
   //method to upload file and insert in the DB
   static async uploadMyFile(req, res) {
-    if (!req.file) return res.send("Please upload a file");
+    if (!req.file) return res.send("Please upload a file, hellloooo");
 
     if (req.method !== "POST") {
       return res

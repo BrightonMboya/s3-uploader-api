@@ -4,7 +4,7 @@
 # compiled directory
 dist
 
-# environment variabl
+# environment variable
 .env
 .env*.local
 
